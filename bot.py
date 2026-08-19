@@ -7,7 +7,7 @@ from telebot import types
 import google.generativeai as genai
 
 # ==================== SOZLAMALAR ====================
-BOT_TOKEN = "TOKENINGIZNI_SHU_YERGA_YOZING" # Bot tokeningizni yozing
+BOT_TOKEN = "8894810381:AAGjIe8Xvq6WzQzU9qlh8947HOt2UwLqvXQ" # Bot tokeningizni yozing
 ADMIN_ID = 8513020688  # Sizning Admin ID raqamingiz
 CHANNEL_USERNAME = "@Sasuke_uchiha_the_last"  # Majburiy obuna kanali
 AI_TOKEN = "AQ.Ab8RN6LTNm_f5el-PLCuRWoLGYQE-6stFz7qQlkZDXJo7lGWng"  # Gemini AI Tokeni
